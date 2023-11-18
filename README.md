@@ -33,7 +33,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/results-summary-component-solution-iHCXawJVX6)
 - Live Site URL: [Live Site](https://ardaeker-results-summary-component-solution.vercel.app)
 
 ## Built with
