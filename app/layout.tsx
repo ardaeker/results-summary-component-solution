@@ -34,7 +34,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${font.variable} antialiased`}>{children}</body>
+      <body className={`${font.variable} font-hanken antialiased`}>{children}</body>
     </html>
   );
 }
