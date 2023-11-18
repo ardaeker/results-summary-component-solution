@@ -12,6 +12,7 @@ export default function Author() {
         "fixed bottom-0 left-0 z-50 flex w-full justify-between  bg-gray-900/90 p-4",
         !isOpen && "hidden",
       )}
+      role="alert"
     >
       <div className="mx-auto flex items-center">
         <p className="flex items-center text-xs font-normal text-white sm:text-base">
