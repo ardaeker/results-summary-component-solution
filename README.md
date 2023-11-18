@@ -34,7 +34,7 @@ Users should be able to:
 ## Links
 
 - Solution URL: [Solution]()
-- Live Site URL: [Live Site]()
+- Live Site URL: [Live Site](https://ardaeker-results-summary-component-solution.vercel.app)
 
 ## Built with
 

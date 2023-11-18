@@ -10,7 +10,9 @@ export const metadata: Metadata = {
   description:
     "Hello, I'm Arda Eker. This website showcases my solution to the Result Summary Component challenge on Frontend Mentor.",
   authors: [{ name: "Arda Eker", url: "https://www.ardaeker.com" }],
-  metadataBase: new URL("https://www.ardaeker.com"),
+  metadataBase: new URL(
+    "https://ardaeker-results-summary-component-solution.vercel.app",
+  ),
   openGraph: {
     type: "website",
     url: "/",
