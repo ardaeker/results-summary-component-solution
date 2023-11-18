@@ -48,7 +48,7 @@ const resultList: Result[] = [
 
 export default function Home() {
   return (
-    <>
+    <div>
       <main className="min-h-screen bg-very-light-blue/30 font-hanken md:flex md:items-center md:justify-center">
         <div className="mx-auto w-full min-w-min max-w-lg bg-white md:flex md:max-w-[46rem] md:rounded-[2rem] md:shadow-container">
           <div className="bg-score-container mb-6 rounded-b-[2rem] pb-10 shadow-score md:mb-0 md:min-w-[23rem] md:rounded-[2rem] md:pt-9 md:shadow-none">
@@ -109,6 +109,6 @@ export default function Home() {
         </div>
       </main>
       <Author />
-    </>
+    </div>
   );
 }
